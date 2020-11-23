@@ -1,2 +1,3 @@
 # kmeans
-clustering kmeans algorithm
+This project implementes the k-means for text clustering.
+
