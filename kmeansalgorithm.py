@@ -70,5 +70,3 @@ for k in range(1, K_MAX):
         congervence = distance(C, C_old, None)
     show_plot(C,X)
 plt.show()    
-
-#Include RuntimeWarning: mean of emtpy slice.
